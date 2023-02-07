@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Repositorio de prueba modulo 2 curso .
+Este proyecto es una prueba para mirar como subir un repositorio a GitHub
